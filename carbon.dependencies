@@ -1,0 +1,20 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "sairam1411/kernel_xiaomi_sm6250",
+        "target_path":  "kernel/xiaomi/sm6250",
+        "branch":       "twelve-kcal"
+    },
+    {
+        "remote":       "github",
+        "repository":   "kdrag0n/proton-clang",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-proton",
+        "branch":       "master"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_hardware_xiaomi",
+        "target_path":  "hardware/xiaomi",
+        "branch":       "lineage-18.1"
+    }
+]
